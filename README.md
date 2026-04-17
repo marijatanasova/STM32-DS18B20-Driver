@@ -1,4 +1,4 @@
-A bare metal embedded driver for reading temperature from a DS18B20 sensor over 1-Wire protocol, with UART output to PC terminal. The project is done using the STM32F103RB and DS18B20 sensor.
+A bare metal embedded driver for reading temperature from a sensor over 1-Wire protocol, with UART output to PC terminal. The project is done using the STM32F103RB and DS18B20 sensor.
 
 1. Features
 - Bare metal register-level code
